@@ -1,5 +1,5 @@
 # BCG
-BCG provides an implementation of the Bayesian Conjugate Gradient method from the paper by Cockayne et. al. which can be found [here](http://www.jcockayne.com/papers/linear_solvers).
+BCG provides an implementation of the Bayesian Conjugate Gradient method from the paper by Cockayne et. al. which can be found [here](http://www.joncockayne.com/papers/linear_solvers).
 
 ## Installation
 
